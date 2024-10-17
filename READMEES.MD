@@ -4,10 +4,10 @@ Esta guía explica cómo instalar las bibliotecas `requests` y `discord_webhook`
 
 ## Requisitos
 
-- Python (se recomienda la versión 3.x)
-- Acceso a Internet para descargar paquetes
+- Python (se recomienda la versión 3.x)s
 - Requests
 - Discord_webhook
+- UOStealth
 
 ## Instalación
 
