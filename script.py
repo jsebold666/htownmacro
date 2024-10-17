@@ -10,7 +10,7 @@ import common_utils as common_utils
 # CONFIG: Webhook and alarm as you wish
 #
 #
-DISCORD_WEBHOOK_HTOWN = "https://discord.com/api/webhooks/1033049633284423792/Xe8XuWVzfEwqMM6HB-aCdIN4P542fkFHplnX1jLt29fgzto7eDu8RoiYRZKmguHn3z7o"
+DISCORD_WEBHOOK_HTOWN = "#"
 common_utils.DISCORD_WEBHOOK_AFK_URL = DISCORD_WEBHOOK_HTOWN
 #
 common_utils.DISCORD_WEBHOOK = DISCORD_WEBHOOK_HTOWN

@@ -74,7 +74,7 @@ global DISCORD_WEBHOOK_DEATH_URL
 DISCORD_WEBHOOK_DEATH_URL = ""
 
 global DISCORD_WEBHOOK_AFK_URL
-DISCORD_WEBHOOK_AFK_URL = "https://discord.com/api/webhooks/1033049633284423792/Xe8XuWVzfEwqMM6HB-aCdIN4P542fkFHplnX1jLt29fgzto7eDu8RoiYRZKmguHn3z7o"
+DISCORD_WEBHOOK_AFK_URL = "#"
 
 # msg that will be send when char dies
 global DISCORD_DEATH_MSG
